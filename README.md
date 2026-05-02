@@ -215,3 +215,4 @@ Open: http://localhost:8000/docs
 
 ---
 
+<img width="1911" height="861" alt="image" src="https://github.com/user-attachments/assets/99564c33-54e8-4438-b010-4465521b2dec" />
