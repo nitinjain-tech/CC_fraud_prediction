@@ -214,5 +214,8 @@ python -m uvicorn app.main:app --reload
 Open: http://localhost:8000/docs
 
 ---
-
+Azure Foundry Dashboard : 
 <img width="1911" height="861" alt="image" src="https://github.com/user-attachments/assets/99564c33-54e8-4438-b010-4465521b2dec" />
+
+Docker API deployment 
+<img width="1907" height="863" alt="image" src="https://github.com/user-attachments/assets/c08a8ec4-f244-4b76-a321-d9934eadbddd" />
