@@ -1,0 +1,7 @@
+FraudDetectionDataset/
+*.csv
+artifacts/
+__pycache__/
+.ipynb_checkpoints/
+logs/
+.vscode/
